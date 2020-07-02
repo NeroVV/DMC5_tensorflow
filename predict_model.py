@@ -8,7 +8,6 @@ import cv2
 
 WIDTH = 70
 HEIGHT = 40
-# 学习率
 LR = 1e-3
 EPOCHS = 10
 MODEL_NAME = 'model_DMC5/DMC5-{}-{}-epochs.model'.format(LR, 'alexnetv2')
